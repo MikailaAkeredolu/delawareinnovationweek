@@ -1,0 +1,42 @@
+/*
+body{
+    background-color: yellow;
+   
+}
+
+#pOne{
+    font-family: 'Pacifico', cursive;
+    font-family: 'Petit Formal Script', cursive;
+    font-family: 'Rammetto One', cursive;
+    font-size: 24px;
+    color: yellow;
+
+}
+
+#display{
+    margin:  0 auto;
+    width: 50%;
+    height: 50%px;
+    background-color: #010A01;
+    color: #FAF9F9;
+    border: solid 2px black;
+    padding: 20px;
+    border: dashed 3px white;
+}
+
+#myBtn{
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-size: 24px;
+    background-color: gray;
+    padding: 10px;
+}
+
+#displayButton{
+    margin: 0 auto;
+    width: 20%;
+    height: 20%;
+    background-color: pink;
+}
+*/
